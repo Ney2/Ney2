@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kidist D.Guta</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" raw="true" width="450" height="280" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ney2&label=Profile%20views&color=0e75b6&style=flat" alt="ney2" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gutakidist" target="blank"><img src="https://img.shields.io/twitter/follow/gutakidist?logo=twitter&style=for-the-badge" alt="gutakidist" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, Android**
 
@@ -24,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ney2&show_icons=true&locale=en&layout=compact" alt="ney2" /></p>
 
-<p>&nbsp;<img align="center" margin="15px" src="https://github-readme-stats.vercel.app/api?username=ney2&show_icons=true&locale=en" alt="ney2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ney2&show_icons=true&locale=en" alt="ney2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ney2&" alt="ney2" /></p>
