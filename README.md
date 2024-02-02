@@ -3,11 +3,9 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" raw="true" width="450" height="280" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ney2&label=Profile%20views&color=0e75b6&style=flat" alt="ney2" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Android**
+- 🌱 I’m currently learning **JavaScript, React, Android, Asp.net, Csharp**
 
 - 📫 How to reach me **kidistdinku5057@gmail.com**
-
-- ⚡ Fun fact **I love food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
